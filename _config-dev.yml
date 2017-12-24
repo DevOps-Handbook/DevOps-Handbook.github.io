@@ -1,0 +1,30 @@
+# Site settings
+title: DevOps实践指南
+email: 67120666@qq.com
+description: 《DevOps Handbook》中文版即将出版
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site
+timezone: Asia/Shanghai
+locale: zh
+
+# Homepage tiles
+tiles-source: posts # accepts "posts" or "pages"
+tiles-count: 3
+
+# Misc settings
+featured-image-source:
+
+# Social settings
+500px_url:
+facebook_url: https://www.facebook.com/groups/devops.handbook/
+github_url: https://github.com/martinliu/handbook.git
+gitlab_url: 
+googleplus_url: 
+instagram_url:
+linkedin_url: 
+pinterest_url:
+slack_url:
+twitter_url: 
+
+# Build settings
+markdown: kramdown

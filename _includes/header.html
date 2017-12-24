@@ -1,0 +1,24 @@
+<!-- Page Wrapper -->
+<div id="page-wrapper">
+
+	<!-- Header -->
+	<header id="header" {% if page.layout == 'default' %} class="alt" {% endif %}>
+		<h1><a href="{{ "" | absolute_url }}">《DevOps实践指南》</a></h1>
+		<nav id="nav">
+			<ul>
+				<li class="special">
+					<a href="#menu" class="menuToggle"><span>菜单</span></a>
+					<div id="menu">
+						<ul>
+							{% for page in site.pages %} {% if page.layout == "default" %}
+							<li><a href="{{ page.url | absolute_url }}">{{ page.title }}</a></li>
+							{% endif %} {% endfor %} {% for page in site.pages %} {% if page.layout == "page" %}
+							<li><a href="{{ page.url | absolute_url }}">{{ page.title }}</a></li>
+							{% endif %} {% endfor %}
+						</ul>
+					</div>
+				</li>
+			</ul>
+		</nav>
+		<link rel="shortcut icon" href="/favicon.ico" />
+	</header>
