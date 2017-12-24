@@ -2,7 +2,7 @@
 layout: page
 title: 读者社区
 description: 欢迎DevOps社区的人员参与互动和交流
-image: IMG_0134.jpg
+image: IMG_0134.JPG
 ---
 
 ![](/imgs/page-under-construction.png)

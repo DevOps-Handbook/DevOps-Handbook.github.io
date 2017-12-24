@@ -2,7 +2,7 @@
 layout: post
 title: 第三步：持续学习与实验原则
 description: 建立持续学习与实验的文化，从而持续提升个人技能
-image: IMG_0132.jpg
+image: IMG_0132.JPG
 ---
 
 
