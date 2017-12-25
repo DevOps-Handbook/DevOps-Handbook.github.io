@@ -2,6 +2,7 @@
 layout: page
 title: 研究案例
 description: 想要复制成功，就要先研究成功的DevOps转型案例
+slug: casestudy
 image: pic01-1.jpg
 ---
 

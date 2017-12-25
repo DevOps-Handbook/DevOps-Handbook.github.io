@@ -2,6 +2,7 @@
 layout: page
 title: 翻译团队
 description: 译者团队简介
+slug: translator
 image: translator.jpg
 ---
 

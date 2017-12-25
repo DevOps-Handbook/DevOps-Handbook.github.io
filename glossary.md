@@ -2,6 +2,7 @@
 layout: page
 title: 术语表
 description: 主要基于《DevOps实践指南》一书，但不限于本书，欢迎DevOps人事参与协作修订。
+slug: glossary
 image: glossary.jpg
 ---
 

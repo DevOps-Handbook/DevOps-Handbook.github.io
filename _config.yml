@@ -11,6 +11,9 @@ locale: zh
 tiles-source: posts # accepts "posts" or "pages"
 tiles-count: 3
 
+#permalink: /:slug.html
+permalink:  /:slug/ 
+
 # Misc settings
 featured-image-source:
 

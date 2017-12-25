@@ -2,6 +2,7 @@
 layout: page
 title: 勘误
 description: 参与这边书籍的勘误和优化
+slug: errata
 image: IMG_0046.JPG
 ---
 

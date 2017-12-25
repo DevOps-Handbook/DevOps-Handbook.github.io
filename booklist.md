@@ -2,6 +2,7 @@
 layout: page
 title: 相关书籍
 description: 本书中引用和参考的书籍，这也算是一个全面的DevOps参考书单
+slug: booklist
 image: IMG_0131.JPG
 ---
 

@@ -2,6 +2,7 @@
 layout: page
 title: 读者社区
 description: 欢迎DevOps社区的人员参与互动和交流
+slug: community
 image: IMG_0134.JPG
 ---
 
