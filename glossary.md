@@ -240,7 +240,7 @@ image: glossary.jpg
 
 ## 参与修订说明
 
-请帮忙改进本术语表，[点此进入本网站的GitHub页面](https://github.com/DevOps-Handbook/DevOps-Handbook.github.io/blob/master/glossary.md)。或者发邮件到：martin@devopscoach.org 
+请帮忙改进本术语表，[点此进入本网站的GitHub页面 https://github.com/DevOps-Handbook/DevOps-Handbook.github.io/blob/master/glossary.md](https://github.com/DevOps-Handbook/DevOps-Handbook.github.io/blob/master/glossary.md)。或者发邮件到：martin@devopscoach.org 
 
 建议最好提供修订原文的简要说明和参考依据。
 
