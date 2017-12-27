@@ -16,3 +16,4 @@ image: translator.jpg
 马博文,  华为2012实验室中央软件院高级工程师，前ThoughtWorks 高级咨询师，AWS助理架构师。曾从事多年web开发和DevOps，熟悉持续交付，微服务。参与翻译《Scala编程实战》、《DevOps实践》等书，是西安DevOps Meetup活动的发起人。
 
 ## 曾朝京
+曾朝京，Micro Focus资深解决方案顾问，参加Exin首批国内Devops Master讲师认证培训。长期从事IT运维管理领域咨询工作，曾为能源、金融、航空运输、政府行业中的多个大型企业提供 IT 运维管理规划。目前致力于探索Devops理念在企业IT部门的实践。
