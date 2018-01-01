@@ -5,6 +5,7 @@ description: 译者团队简介
 slug: translator
 image: translator.jpg
 ---
+# 翻译团队
 
 ## 刘征
 刘征，Nutanix路坦力资深架构师。Exin首批国内DevOps Master和DevOps Professional认证讲师。持有红帽RHCA认证和AWS高级架构师认证。谙熟企业数据中心的IT服务管理。目前致力于推广DevOps相关的理念和实践，在DevOps社区中积极地参与培训和研讨会等活动，DevOpsDays大会活动在中国的参与者和志愿者。
