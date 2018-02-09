@@ -6,7 +6,7 @@ slug: booklist
 image: IMG_0131.JPG
 ---
 
-![](/imgs/page-under-construction.png)
+![](http://p1gygy0ze.bkt.clouddn.com/imgs/page-under-construction.png)
 
 欢迎参与本页面的构建，请访问本站的[Github](https://github.com/DevOps-Handbook/DevOps-Handbook.github.io.git)
 

@@ -46,7 +46,7 @@
 
 	#banner,
 	.wrapper.style4 {
-		background-image: url("../../assets/images/banner.jpg");
+		background-image: url("http://p1gygy0ze.bkt.clouddn.com/assets/images/banner.jpg");
 		background-position: center center;
 		background-repeat: no-repeat;
 		background-size: cover;
@@ -101,7 +101,7 @@
 /* Main */
 
 	#main > header {
-		background-image: url("../../assets/images/banner.jpg");
+		background-image: url("http://p1gygy0ze.bkt.clouddn.com/assets/images/banner.jpg");
 		background-position: center center;
 		background-repeat: no-repeat;
 		background-size: cover;

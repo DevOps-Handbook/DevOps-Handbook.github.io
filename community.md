@@ -6,7 +6,7 @@ slug: community
 image: IMG_0134.JPG
 ---
 
-![](/imgs/page-under-construction.png)
+![](http://p1gygy0ze.bkt.clouddn.com/imgs/page-under-construction.png)
 
 
 
@@ -32,4 +32,4 @@ Facebook Group的群[https://www.facebook.com/groups/devops.handbook/](https://w
 
 扫码下面的二维码，或者搜索MyDevOps，关注以后在后台回复“加群”即可加入我们的微信群。 
 
-![](/imgs/qrcode_for_gh_bce38ef330e5_430.jpg)
+![](http://p1gygy0ze.bkt.clouddn.com/imgs/qrcode_for_gh_bce38ef330e5_430.jpg)
