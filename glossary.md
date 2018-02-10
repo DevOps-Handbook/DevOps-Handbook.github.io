@@ -23,6 +23,7 @@ image: glossary.jpg
 
 * 2017年1月7日，在Martin‘s Blog和Github上发布了第一个版本。有几个人在Github上参与了修订（请参与者通过邮件或者其他方式告诉我，这里希望再次申明致谢。）
 * 2017年12月27日，参与修订的人包括卢梦纯（Exin）、刘征、张乐、Wang Jun和许峰。
+* 本网页当前接受繁体中文的增补，[所有参与者名单](https://github.com/DevOps-Handbook/DevOps-Handbook.github.io/graphs/contributors)
 
 
 
@@ -240,11 +241,11 @@ image: glossary.jpg
 
 ## 参与修订说明
 
-请帮忙改进本术语表，[点此进入本网站的GitHub页面 https://github.com/DevOps-Handbook/DevOps-Handbook.github.io/blob/master/glossary.md](https://github.com/DevOps-Handbook/DevOps-Handbook.github.io/blob/master/glossary.md)。或者发邮件到：martin@devopscoach.org 
+请帮忙改进本术语表，请直接Fork本代码库，然后提交PR；或者发邮件到：liuzh66@gmail.com
 
 建议最好提供修订原文的简要说明和参考依据。
 
 GitHub操作注意事项：
 
-* 建议clone整个repo做批量更新，小批量可以直接在github网页上提交
+* 建议Fork整个repo做批量更新，小批量可以直接在github网页上提交
 * 请不要完全删除之前的翻译，可以把旧翻译划横线（使用markdown），在右边添加新的中文意思。
