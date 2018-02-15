@@ -6,6 +6,10 @@ slug: learning
 image: IMG_0132.JPG
 ---
 
-* 这篇文章需要在过年前后完成
-
 建立持续学习与实验的文化，从而持续提升个人技能，并将其转化为团队和组织的财富。通过建立持续、动态的学习机制，帮助团队快速地适应不断变化的环境，进而帮助企业在市场竞争中脱颖而出。
+
+对第四章-持续学习与实验原则做了一张脑图，如下所示。
+
+![Learning](https://res.cloudinary.com/martinliu/image/upload/c_scale,w_1000/Handbook-C4-Learning.png)
+
+[点这里下载高清大图](https://res.cloudinary.com/martinliu/image/upload/Handbook-C4-Learning.png)
