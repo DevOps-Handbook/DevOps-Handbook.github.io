@@ -3,7 +3,7 @@ title: 《DevOps实践指南》
 email: 67120666@qq.com
 description: 《DevOps Handbook》中文版即将出版
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://handbook.martinliu.cn" # the base hostname & protocol for your site
+url: "https://handbook.martinliu.cn" # the base hostname & protocol for your site
 timezone: Asia/Shanghai
 locale: zh
 
